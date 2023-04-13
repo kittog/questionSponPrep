@@ -6,3 +6,13 @@
     autres statistiques : 
     - 1239 questions annotées
     - 554 questions "poubelle" ou "non-question"
+
+#### 6 Avril 2023
+- re-origanisation des corpus et nettoyage
+- Essai des annotations morpho-syntaxique des corpus 
+
+
+#### 13 Avril 2023
+- Prétraitement des données pour être adaptable à l'entraînement
+- test en Python les clustering par le biais de la méthode de `kmeans`
+-
