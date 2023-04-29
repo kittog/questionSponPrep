@@ -6,7 +6,15 @@
     autres statistiques : 
     - 1239 questions annotées
     - 554 questions "poubelle" ou "non-question"
-<<<<<<< HEAD
+    
+#### 6 Avril 2023
+- re-origanisation des corpus et nettoyage
+- Essai des annotations morpho-syntaxique des corpus 
+
+
+#### 13 Avril 2023
+- Prétraitement des données pour être adaptable à l'entraînement
+- test en Python les clustering par le biais de la méthode de `kmeans`
     
 #### 14 avril 2023
 Premier essai algo k-means clustering :
@@ -18,15 +26,3 @@ Premier essai algo k-means clustering :
 - n-grammes : travailler les questions en séquences de mots (vectorisation des mots fait qu'on perd la structure des questions qu'on cherche à étudier)
 - algo kmeans sur chacun des sous corpus (séparer les résultats ?)
 - jouer avec les paramètres du kmeans (cf. sklearn)
-=======
-
-#### 6 Avril 2023
-- re-origanisation des corpus et nettoyage
-- Essai des annotations morpho-syntaxique des corpus 
-
-
-#### 13 Avril 2023
-- Prétraitement des données pour être adaptable à l'entraînement
-- test en Python les clustering par le biais de la méthode de `kmeans`
--
->>>>>>> xinhao-km
