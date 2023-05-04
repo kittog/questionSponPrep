@@ -1,0 +1,120 @@
+Top terms per cluster:Cluster 0: 
+ prendre
+ oui
+ mauvais
+ entreprise
+ originaire
+ place
+ carcassonne
+ quatre
+ effectué
+ moderne
+
+Cluster 1: 
+ débrouillez
+ crois
+ accord
+ appartement
+ hum
+ livre
+ quartier
+ allée
+ hm
+ pratiqué
+
+Cluster 2: 
+ linguistique
+ militaire
+ fac
+ concours
+ quatre
+ portugal
+ capitole
+ professeurs
+ là
+ celles
+
+Cluster 3: 
+ pratique
+ options
+ regardes
+ emploie
+ débrouillez
+ amis
+ admission
+ accord
+ matières
+ originaire
+
+Cluster 4: 
+ emploie
+ job
+ appartement
+ allée
+ question
+ débrouillez
+ latin
+ quelle
+ explique
+ hiérarchie
+
+Cluster 5: 
+ gardez
+ qualification
+ conditions
+ approximatifs
+ autorité
+ classé
+ littéraires
+ enseignante
+ mm
+ av
+
+Cluster 6: 
+ faite
+ omelette
+ débrouillez
+ car
+ employez
+ appartement
+ emploie
+ emplacement
+ passé
+ nouveaux
+
+Cluster 7: 
+ partagez
+ khâgne
+ pratique
+ aiment
+ louis
+ débrouillez
+ années
+ livre
+ potager
+ lille
+
+Cluster 8: 
+ employez
+ lis
+ attachée
+ endroits
+ angoisses
+ installé
+ combien
+ habitaient
+ montrer
+ historienne
+
+Cluster 9: 
+ musique
+ boire
+ conversation
+ mille
+ habite
+ aussi
+ propriétaires
+ recommencent
+ comme
+ définies
+
