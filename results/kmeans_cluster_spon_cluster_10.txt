@@ -1,0 +1,120 @@
+Top terms per cluster:Cluster 0: 
+ k2
+ pourquoi
+ k1
+ voyez
+ bien
+ où
+ ville
+ non
+ peu
+ oui
+
+Cluster 1: 
+ euh
+ enfin
+ donc
+ après
+ école
+ accord
+ famille
+ collège
+ peu
+ lycée
+
+Cluster 2: 
+ hum
+ alors
+ euh
+ quoi
+ comme
+ donc
+ côté
+ faites
+ ètes
+ pris
+
+Cluster 3: 
+ donc
+ orléans
+ tout
+ ici
+ enseignement
+ fait
+ ah
+ catholique
+ trouver
+ france
+
+Cluster 4: 
+ plus
+ vraiment
+ autrement
+ euh
+ plu
+ donc
+ fais
+ linguistique
+ options
+ alors
+
+Cluster 5: 
+ ça
+ quoi
+ enfin
+ donc
+ consiste
+ euh
+ hein
+ comme
+ k3
+ bien
+
+Cluster 6: 
+ quel
+ genre
+ âge
+ but
+ point
+ vue
+ euh
+ sens
+ mutation
+ état
+
+Cluster 7: 
+ comment
+ exemple
+ mème
+ pouvez
+ petits
+ enfants
+ ètes
+ cela
+ directeur
+ contre
+
+Cluster 8: 
+ k4
+ hm
+ larousse
+ orléans
+ détails
+ tous
+ quelque
+ sûr
+ petit
+ oui
+
+Cluster 9: 
+ fait
+ études
+ accord
+ donc
+ euh
+ quand
+ père
+ quoi
+ toulouse
+ pareil
+
